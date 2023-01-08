@@ -1,0 +1,185 @@
+/*! ../../context/RouletteContext */
+
+/*! ../../designs/Regular */
+
+/*! ../../hooks */
+
+/*! ../../utills */
+
+/*! ../PrizesWrapper */
+
+/*! ../Wrapper */
+
+/*! ../getRandomIntInRange */
+
+/*! ./PrizesWrapper */
+
+/*! ./PrizesWrapper.css */
+
+/*! ./Regular */
+
+/*! ./Regular.css */
+
+/*! ./Roulette */
+
+/*! ./Wrapper */
+
+/*! ./Wrapper.css */
+
+/*! ./classNames */
+
+/*! ./components/Roulette */
+
+/*! ./getPrizeAdditionalOffset */
+
+/*! ./getPrizeOffset */
+
+/*! ./getRandomIntInRange */
+
+/*! ./useAudio */
+
+/*! react */
+
+/*!**********************!*\
+          !*** ./src/index.ts ***!
+          \**********************/
+
+/*!****************************!*\
+          !*** ./src/hooks/index.ts ***!
+          \****************************/
+
+/*!*****************************!*\
+          !*** ./src/utills/index.ts ***!
+          \*****************************/
+
+/*!*************************************!*\
+          !*** ./src/hooks/useAudio/index.ts ***!
+          \*************************************/
+
+/*!**************************************!*\
+          !*** ./src/designs/Regular/index.ts ***!
+          \**************************************/
+
+/*!****************************************!*\
+          !*** ./src/hooks/useAudio/useAudio.ts ***!
+          \****************************************/
+
+/*!****************************************!*\
+          !*** ./src/utills/classNames/index.ts ***!
+          \****************************************/
+
+/*!*****************************************!*\
+          !*** ./src/components/Wrapper/index.ts ***!
+          \*****************************************/
+
+/*!*****************************************!*\
+          !*** ./src/context/RouletteContext.tsx ***!
+          \*****************************************/
+
+/*!*****************************************!*\
+          !*** ./src/designs/Regular/Regular.css ***!
+          \*****************************************/
+
+/*!*****************************************!*\
+          !*** ./src/designs/Regular/Regular.tsx ***!
+          \*****************************************/
+
+/*!******************************************!*\
+          !*** ./src/components/Roulette/index.ts ***!
+          \******************************************/
+
+/*!********************************************!*\
+          !*** ./src/components/Wrapper/Wrapper.css ***!
+          \********************************************/
+
+/*!********************************************!*\
+          !*** ./src/components/Wrapper/Wrapper.tsx ***!
+          \********************************************/
+
+/*!********************************************!*\
+          !*** ./src/utills/getPrizeOffset/index.ts ***!
+          \********************************************/
+
+/*!*********************************************!*\
+          !*** ./src/utills/classNames/classNames.ts ***!
+          \*********************************************/
+
+/*!**********************************************!*\
+          !*** ./src/components/Roulette/Roulette.tsx ***!
+          \**********************************************/
+
+/*!***********************************************!*\
+          !*** ./src/components/PrizesWrapper/index.ts ***!
+          \***********************************************/
+
+/*!*************************************************!*\
+          !*** ./src/utills/getRandomIntInRange/index.ts ***!
+          \*************************************************/
+
+/*!*****************************************************!*\
+          !*** ./src/utills/getPrizeOffset/getPrizeOffset.ts ***!
+          \*****************************************************/
+
+/*!******************************************************!*\
+          !*** ./src/utills/getPrizeAdditionalOffset/index.ts ***!
+          \******************************************************/
+
+/*!********************************************************!*\
+          !*** ./src/components/PrizesWrapper/PrizesWrapper.css ***!
+          \********************************************************/
+
+/*!********************************************************!*\
+          !*** ./src/components/PrizesWrapper/PrizesWrapper.tsx ***!
+          \********************************************************/
+
+/*!***************************************************************!*\
+          !*** ./src/utills/getRandomIntInRange/getRandomIntInRange.ts ***!
+          \***************************************************************/
+
+/*!*************************************************************************!*\
+          !*** ./src/utills/getPrizeAdditionalOffset/getPrizeAdditionalOffset.ts ***!
+          \*************************************************************************/
+
+/*!**************************************************************************************!*\
+          !*** external {"root":"React","commonjs2":"react","commonjs":"react","amd":"react"} ***!
+          \**************************************************************************************/
+
+/**
+ * @license React
+ * react-dom.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react-jsx-runtime.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * scheduler.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
