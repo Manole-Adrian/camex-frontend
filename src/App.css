@@ -1,3 +1,16 @@
 body {
   background-color: #282c34;
 }
+button {
+  background-color:#282c34;
+  color:lightgray;
+  border-radius:5px;
+  border-color:limegreen;
+  
+}
+
+.devText {
+  text-align:center;
+  color:aliceblue;
+  font-weight:bold;
+}
