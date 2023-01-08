@@ -1,0 +1,10 @@
+.rouletteContainer {
+
+}
+
+.rouletteContainer > button {
+    margin-left:50%;
+    transform:translateX(-50%);
+    font-size:2rem;
+    margin-top:2rem;
+}

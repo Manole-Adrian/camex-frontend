@@ -1,0 +1,15 @@
+
+
+.title {
+    text-align: center;
+    color:white;
+    border-bottom-style:solid;
+    border-bottom-color:limegreen;
+    width:fit-content;
+    margin:2rem auto;
+}
+
+.formsContainer {
+    display:flex;
+    justify-content: center;
+}
